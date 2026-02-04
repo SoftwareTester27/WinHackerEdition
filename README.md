@@ -22,9 +22,21 @@ Deploy your theme payload in minutes—it's as easy as hacking a mainframe (but 
 
 Compatible with Windows 10/11. Tested on clean installs; dark mode recommended for max glow.
 
+## 💾 For integrating theme into VS Code, Visual Studio 2022+, Windows Terminal
+
+- **VS Code**: 1. First, start vscode as admin
+               2. Then, install the following extensions: **Fluent UI for VS Code (Continued)**, (optional) **Vibrancy Continued**, **Fluent Icons**, **Hacker X Theme**, **Fluent Emojis**, **Ultimate Icon Theme**.
+               3. Set the color theme to 🟢 Matrix Green, product icon theme to Fluent Icons, file icon theme to Ultimate Icon theme.
+               4. Open command palette and run `**Fluent UI: Enable**` and `**Enable Vibrancy**`.
+               5. Dont restart yet, first go to settings of vscode, and set the fluent ui accent to **#00CC6A**. Enable background wallpaper if you want to.
+               6. Now, Restart the app.
+               7. If it doesnt show any change apart from theme, then normally close and open app without admin.
+               8. Enjoy VS Code Hacker Edition!
+- **Visual Studio 2022+**: 1.
+
 ## 🎨 Why WinHackerEdition?
 
-Tired of that stock Windows look that's about as exciting as a 404 error? WinHackerEdition flips the script, turning your cluttered boredom into a green-tinted hacker haven. Imagine your desktop pulsing with matrix rain, sharp icons that scream "code ninja," and accents that tie it all together without overwhelming your workflow.
+Tired of that stock Windows look that's about as exciting as a 404 error? WinHackerEdition flips the script, turning your cluttered boredom into a green-tinted hacker haven. Imagine your desktop pulsing with matrix rain, that scream "code ninja," and accents that tie it all together without overwhelming your workflow.
 
 It's not just pretty—it's productive. Reduced distractions mean more focus on VS Code marathons or browser debugging sessions. Cross-app compatibility ensures your tools like VS Code, Visual Studio 2022+, or even Terminal feel right at home in this cyberpunk upgrade. Join the revolution: one theme at a time, reclaim your screen from the mundane.
 
