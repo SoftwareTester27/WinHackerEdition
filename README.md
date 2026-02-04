@@ -6,6 +6,8 @@ Transform your boring, cluttered Windows 10/11 desktop into a sleek, green moder
 
 [![Windows 10/11 Compatible](https://img.shields.io/badge/Windows-10%2F11-green?style=flat&logo=windows)](https://github.com/SoftwareTester27/WinHackerEdition)
 
+<img width="1439" height="899" alt="Screenshot 2026-02-04 193145" src="https://github.com/user-attachments/assets/f1576bd0-2b52-4f2f-8c42-a51cfe94654a" />
+
 ## 🚀 Quick Start
 
 Deploy your theme payload in minutes—it's as easy as hacking a mainframe (but way less illegal). Backup your current setup first to avoid any digital drama.
