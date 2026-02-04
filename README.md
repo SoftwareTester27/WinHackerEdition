@@ -33,7 +33,6 @@ Compatible with Windows 10/11. Tested on clean installs; dark mode recommended f
 - 6. Now, Restart the app.
 - 7. If it doesnt show any change apart from theme, then normally close and open app without admin.
 - 8. Enjoy VS Code Hacker Edition!
-- **Visual Studio 2022+**: 1.
 
 ## 🎨 Why WinHackerEdition?
 
