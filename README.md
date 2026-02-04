@@ -28,7 +28,7 @@ Compatible with Windows 10/11. Tested on clean installs; dark mode recommended f
 - 1. First, start vscode as admin
 - 2. Then, install the following extensions: **Fluent UI for VS Code (Continued)**, (optional) **Vibrancy Continued**, **Fluent Icons**, **Hacker X Theme**, **Fluent Emojis**, **Ultimate Icon Theme**.
 - 3. Set the color theme to 🟢 Matrix Green, product icon theme to Fluent Icons, file icon theme to Ultimate Icon theme.
-- 4. Open command palette and run `**Fluent UI: Enable**` and `**Enable Vibrancy**`.
+- 4. Open command palette and run **`Fluent UI: Enable`** and **`Enable Vibrancy`**.
 - 5. Dont restart yet, first go to settings of vscode, and set the fluent ui accent to **#00CC6A**. Enable background wallpaper if you want to.
 - 6. Now, Restart the app.
 - 7. If it doesnt show any change apart from theme, then normally close and open app without admin.
