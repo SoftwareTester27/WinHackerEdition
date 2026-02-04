@@ -8,19 +8,17 @@ Transform your boring, cluttered Windows 10/11 desktop into a sleek, green moder
 
 <img width="1439" height="899" alt="Screenshot 2026-02-04 193145" src="https://github.com/user-attachments/assets/f1576bd0-2b52-4f2f-8c42-a51cfe94654a" />
 
-## 🚀 Quick Start
+## 🚀 How to get this desktop experience
 
 Deploy your theme payload in minutes—it's as easy as hacking a mainframe (but way less illegal). Backup your current setup first to avoid any digital drama.
 
 1. **Download the Payload**: Grab the ZIP from [Releases](https://github.com/SoftwareTester27/WinHackerEdition/releases). Unzip to a folder like `C:\WinHackerEdition`.
 
-2. **Set the Accent Color**: Right-click desktop > Personalize > Colors. Pick the vibrant green (#00FF00) from our color guide in the ZIP. Apply to Start, taskbar, and accents.
+2. **Set the Accent Color**: Right-click desktop > Personalize > Colors. Pick the vibrant green (#00CC6A).
 
-3. **Deploy Live Wallpapers**: Open the `wallpapers` folder. Right-click a matrix-style animated wallpaper > Set as desktop background. For live effects, run the included PowerShell script: `.\SetLiveWallpaper.ps1` (right-click > Run with PowerShell).
+4. **Lively Wallpapers Setup**: Install Lively Wallaper from [here](https://www.rocksdanister.com/lively/).
 
-4. **Icon Overhaul**: Extract icons to `%USERPROFILE%\Documents\Icons` and use a tool like IconPackager (free trial) or manually swap via Settings > Themes.
-
-5. **Reboot for Full Effect**: Restart Explorer.exe (Task Manager > Restart) or reboot your system. Boom—hacker mode activated!
+5. **Animated Hacker Matrix Background**: Open lively, then select "**Matrix Rain Customizable**" wallpaper.
 
 Compatible with Windows 10/11. Tested on clean installs; dark mode recommended for max glow.
 
@@ -28,14 +26,15 @@ Compatible with Windows 10/11. Tested on clean installs; dark mode recommended f
 
 Tired of that stock Windows look that's about as exciting as a 404 error? WinHackerEdition flips the script, turning your cluttered boredom into a green-tinted hacker haven. Imagine your desktop pulsing with matrix rain, sharp icons that scream "code ninja," and accents that tie it all together without overwhelming your workflow.
 
-It's not just pretty—it's productive. Reduced distractions mean more focus on VS Code marathons or browser debugging sessions. Cross-app compatibility ensures your tools like Chrome, Terminal, or even Notepad++ feel right at home in this cyberpunk upgrade. Join the revolution: one theme at a time, reclaim your screen from the mundane.
+It's not just pretty—it's productive. Reduced distractions mean more focus on VS Code marathons or browser debugging sessions. Cross-app compatibility ensures your tools like VS Code, Visual Studio 2022+, or even Terminal feel right at home in this cyberpunk upgrade. Join the revolution: one theme at a time, reclaim your screen from the mundane.
 
 ## ✨ Key Features
 
-- **Vibrant Green Accents**: Customizable #00FF00 hues that light up your taskbar, Start menu, and window borders—perfect for that authentic hacker glow without eye strain.
+- **Vibrant Green Accents**: Customizable #00CC6A hues that light up your taskbar, Start menu, and window borders—perfect for that authentic hacker glow without eye strain.
 - **Dynamic Live Wallpapers**: Matrix-inspired animations that subtly move in the background, keeping your desktop alive and immersive (no performance hit on modern hardware).
 - **Seamless Cross-App Compatibility**: Themes sync with dev tools like VS Code, Git Bash, and browsers—your entire ecosystem gets the green treatment.
-- **Icon and Cursor Packs**: Sleek, minimalist replacements that modernize your shortcuts, from file explorers to app launchers.
+
+- Universal Mica effect on Windows 11 devices
 
 Teaser: Toggle "hacker mode" via a simple script for intensified green effects during late-night coding sessions.
 
@@ -47,28 +46,22 @@ See the transformation that turns "meh" into "matrix magic":
 |-------------------------|----------------------|
 | ![Before: Stock Windows desktop, cluttered and dull](before.png) | ![After: Green-themed desktop with live wallpaper and accents](after.png) |
 
-Full-screen vibe:  
-![Full Desktop Transformation](full-desktop.gif)
-
-Taskbar and app in action:  
-![Taskbar & VS Code](taskbar-app.png)
-
 Proof: Your cluttered chaos becomes a clean, green productivity powerhouse.
 
 ## 🔧 Customization Tips
 
 Own your hack—tweak it to fit your style!
 
-- **Adjust Green Shades**: In Settings > Personalization > Colors, experiment with greens from #008000 (deep forest) to #39FF14 (neon pop). Use Color Management in the ZIP for precise hex codes.
-- **Wallpaper Variants**: Swap between static matrix stills or animated loops in the `wallpapers` folder. Pro tip: Set multiple for time-of-day rotations via Wallpaper Engine (free basic version).
-- **Third-Party Sync**: For apps like Discord or Spotify, import our CSS snippets into their themes. Ensure dark mode is on for best compatibility—test in a virtual machine if you're paranoid.
+- **Adjust Green Shades**: In Settings > Personalization > Colors, experiment with greens from #00CC6A to #39FF14 (neon pop).
+  
+- **Wallpaper Variants**: Swap between static matrix stills or animated loops in the lively app. Pro tip: Set multiple for time-of-day rotations via Wallpaper Engine (free basic version).
+  
 - **User Mods Welcome**: Got a killer red-pill variant? Share it in Issues—we love community hacks!
 
 ## ❓ Troubleshooting
 
 Hit a glitch? No sweat—here's your debug kit:
 
-- **Wallpaper Not Animating?** Run `SetLiveWallpaper.ps1` as admin. If stuck, check Windows Spotlight settings and disable "Get fun facts" in Privacy.
 - **Theme Not Sticking?** Restart Explorer.exe via Task Manager (Ctrl+Shift+Esc > Processes > right-click > Restart). Or reboot—old-school fix.
 - **Colors Washed Out?** Update your graphics drivers (NVIDIA/AMD/Intel) and ensure high contrast mode is off in Ease of Access.
 - **App Compatibility Issues?** Force dark theme in app settings. Still buggy? Head to [Issues](https://github.com/SoftwareTester27/WinHackerEdition/issues) for community fixes.
